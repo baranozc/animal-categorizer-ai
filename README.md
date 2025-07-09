@@ -1,7 +1,7 @@
 
 ➡️ [Jump to How to Run](#how-to-run)
 
-A simple yet effective deep learning project demonstrating how to build an image classifier to distinguish between wolves and huskies using the `fastai` library.
+A simple yet effective deep learning project demonstrating how to build an image classifier to distinguish between wolves and huskies using the `fastai` library. This code is from the first lesson of the Practical Deep Learning for Coders course by fast.ai.
 
 ## Overview
 
